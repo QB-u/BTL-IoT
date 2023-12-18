@@ -1,0 +1,51 @@
+{
+  "UsersData": {
+    "a27oZDPmqmUVrjcv3dz5iKO6r2o2": {
+      "charts": {
+        "range": "8"
+      },
+      "readings": {
+        "1701098927": {
+          "gas": "234",
+          "humidity": "68.00",
+          "temperature": "26.70",
+          "timestamp": "1701098928"
+        },
+        "1701098941": {
+          "gas": "309",
+          "humidity": "68.00",
+          "temperature": "26.70",
+          "timestamp": "1701098943"
+        },
+        "1701098956": {
+          "gas": "288",
+          "humidity": "68.00",
+          "temperature": "26.70",
+          "timestamp": "1701098958"
+        },
+        "1701098971": {
+          "gas": "264",
+          "humidity": "68.00",
+          "temperature": "26.70",
+          "timestamp": "1701098973"
+        },
+        "1701098986": {
+          "gas": "250",
+          "humidity": "68.00",
+          "temperature": "26.70",
+          "timestamp": "1701098987"
+        },
+        "1701099001": {
+          "gas": "234",
+          "humidity": "68.00",
+          "temperature": "27.10",
+          "timestamp": "1701099001"
+        }
+      }
+    }
+  },
+  "devices": {
+    "buzzer": 0,
+    "light": 0
+  }
+}

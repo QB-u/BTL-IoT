@@ -1,0 +1,16 @@
+{
+  "rules": {
+    "UsersData": {
+      "$uid": {
+        ".read": "$uid === auth.uid",
+        ".write": "$uid === auth.uid"
+      }
+    },
+    "devices": {
+      ".read": "auth != null",
+      ".write": "auth != null",
+      "buzzer": {},
+      "light": {}
+    }
+  }
+}
